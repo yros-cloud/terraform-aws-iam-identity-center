@@ -108,3 +108,4 @@ See the [`examples/basic`](./examples/basic) folder for a complete working examp
 ## 📝 License
 
 MIT — see [LICENSE](./LICENSE) file.
+
