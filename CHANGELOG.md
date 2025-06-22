@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1](https://github.com/yros-cloud/terraform-aws-iam-identity-center/compare/v1.1.0...v1.1.1) (2025-06-22)
+
+
+### Bug Fixes
+
+* example tf complete ([6c88dc5](https://github.com/yros-cloud/terraform-aws-iam-identity-center/commit/6c88dc5974d932e529a760c8eb4adca970c01552))
+
 ## [1.1.0](https://github.com/yros-cloud/terraform-aws-iam-identity-center/compare/v1.0.0...v1.1.0) (2025-06-22)
 
 
