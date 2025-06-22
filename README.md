@@ -61,6 +61,7 @@ module "identity_center" {
     staging = { id = "444455556666" }
   }
 }
+```
 
 ## 🔧 Inputs
 
