@@ -34,7 +34,7 @@ module "identity_center" {
           "arn:aws:iam::aws:policy/PowerUserAccess"
         ]
         customer_managed_policies = [
-           "arn:aws:iam::aws:policy/lambda-dev-access"
+           aws_iam_policy.lambda_dev_access.arn
         ]
       }
     }
